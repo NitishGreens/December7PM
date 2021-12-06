@@ -14,4 +14,10 @@ public class Employee {
 		e.add(10, 20);
 	}
 
+	public void mul(int a, int b) {
+		int mul = a * b;
+		System.out.println(mul);
+
+	}
+
 }
